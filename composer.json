@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php": ">=5.3.0",
+        "psr/log":"dev-master",
+        "anketolog/psrLogger":"dev-master"
+    },
+    "repositories":[
+        {
+            "type":"git",
+            "url":"https://github.com/php-fig/log.git"
+        },
+        {
+            "type":"git",
+            "url":"https://github.com/pirateunix/OurLogger.git"
+        }
+    ]
+}
